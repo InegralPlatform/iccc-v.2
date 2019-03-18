@@ -36,35 +36,11 @@
 
                                     </ul>
                                 </li>
-                                <li class="dropdown has-mega-menu"><a href="#">WorkShops</a>
-                                    <div class="mega-menu">
-                                        <div class="mega-menu-bar row no-gutters">
-                                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                                <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="workShopTopics.php">WorkShop Topics</a></li>
-
-                                                </ul>
-                                            </div>
-                                            <div class="column col-lg-6 col-md-6 col-sm-12">
-                                                <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="WorkShopProposal.php">WorkShop Proposal</a></li>
-
-                                                </ul>
-                                            </div>
-                                            <!-- <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="blog.html">Blog</a></li>
-
-                                                </ul>
-                                            </div>
-                                            <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="event-venue.html">Event Venue</a></li>
-
-                                                </ul>
-                                            </div> -->
-                                        </div>
-                                    </div>
+                                <li class="dropdown "><a href="#">WorkShops</a>
+                                    <ul>
+                                        <li><a href="workShopTopics.php">WorkShop Topics</a></li>
+                                        <li><a href="WorkShopProposal.php">WorkShop Proposal</a></li>
+                                    </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Attending</a>
                                     <ul>

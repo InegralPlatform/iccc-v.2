@@ -32,7 +32,7 @@
             <span class="float-text">VENUE</span>
             <h1>EVENT VENUE</h1>
             <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home </a></li>
+                <li><a href="index.php">Home </a></li>
                 <li>EVENT VENUE</li>
             </ul>
         </div>
@@ -60,7 +60,7 @@
                 <div class="gallery-block col-lg-4 col-md-6 col-sm-12 wow zoomIn">
                     <div class="image-box">
                         <figure class="image"><img src="images/gallery/1.png" alt="">
-                        
+
                         </figure>
                         <div class="overlay-box">
                             <a href="images/gallery/1.png" class="lightbox-image" data-fancybox="gallery">
@@ -133,11 +133,7 @@
     <!-- Map Section -->
     <section class="map-section">
         <!--Map Canvas-->
-        <!--Google map-->
-  <div class="mapouter"><div class="gmap_canvas">
-<div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=%D9%83%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9%20%D9%86%D9%88%D8%B1%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%D8%8C%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A2%D9%84%20%D8%B3%D8%B9%D9%88%D8%AF%D8%8C%20%D8%A7%D9%84%D8%B1%D8%A8%D9%88%D8%A9%D8%8C%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%2012834%D8%8C%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9+(Conference%20and%20Convention%20Center)&amp;ie=UTF8&amp;t=&amp;z=9&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/">Draw map route</a></iframe></div><br />
-
-  <!--Google Maps-->
+  <div style="width: 100%"><iframe width="100%" height="600" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=Faculty%20of%20Social%20Work%20University%20of%20Princess%20Nora%20Bint%20Abdulrahman%2C%20Prince%20Muhammad%20Ibn%20Abdul%20Aziz%20Al%20Saud%2C%20Ar%20Rabwah%2C%20Riyadh%2012834+(Faculty%20of%20Social%20Work%20University%20of%20Princess%20Nora%20Bint%20Abdulrahman%2C%20Prince%20Muhammad%20Ibn%20Abdul%20Aziz%20Al%20Saud%2C%20Ar%20Rabwah%2C%20Riyadh%2012834)&amp;ie=UTF8&amp;t=&amp;z=11&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/">Map a route</a></iframe></div><br />
     </section>
     <!--End Map Section -->
 

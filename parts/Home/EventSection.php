@@ -29,7 +29,7 @@
                                      <p>Dr. Manel AYADI (Princess Nourah University)</p>
 
                             </div>
-                            <div class="btn-box"><a href="contact.html" class="theme-btn btn-style-three">Register Now</a></div>
+                            <div class="btn-box"><a href="contact.php" class="theme-btn btn-style-three">Register Now</a></div>
                         </div>
                     </div>
 

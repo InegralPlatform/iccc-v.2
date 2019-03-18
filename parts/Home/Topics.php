@@ -9,7 +9,7 @@
 
     <div class="auto-container">
         <div class="sec-title">
-            <h2>Topics</h2>
+            <h2>Tracks</h2>
         </div>
 
         <div class="row">

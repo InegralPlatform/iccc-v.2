@@ -15,7 +15,7 @@
     <!--End Hidden Bar -->
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/3.jpg);">
+    <section class="page-title" style="background-image:url(images/background/1.jpg);">
         <div class="auto-container">
             <span class="float-text">Speakers</span>
             <h1>Speakers</h1>
@@ -36,7 +36,7 @@
     <!--End Speakers Section Three -->
 
     <!-- Speakers Section Four -->
-<?php include('parts/Speackers/SpeackersPop.php');?>
+<?php //include('parts/Speackers/SpeackersPop.php');?>
     <!--End Speakers Section Four -->
 
     <!-- Main Footer -->

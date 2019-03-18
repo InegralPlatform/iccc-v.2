@@ -5,8 +5,8 @@
                 <div class="buttons-column col-lg-4 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <ul class="tab-buttons tab-btns clearfix">
-                            <li class="tab-btn" data-tab="#introduction"><div>Data Science</div></li>
-                            <li class="tab-btn active-btn" data-tab="#research"><div> CyberSecurity</div></li>
+                            <li class="tab-btn active-btn" data-tab="#introduction"><div>Data Science</div></li>
+                            <li class="tab-btn " data-tab="#research"><div> CyberSecurity</div></li>
                             <li class="tab-btn" data-tab="#wireframing"><div>Network and IoT </div></li>
                             <li class="tab-btn" data-tab="#testing"><div>Information Technology </div></li>
 

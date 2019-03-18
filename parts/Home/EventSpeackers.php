@@ -209,18 +209,21 @@ She is active organizing a monthly workshop such as Matlab, Maple, Mathematica, 
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="ts-speaker-popup-img">
-                                <img src="images/resource/speaker-popup.jpg" alt="">
+                                <img src="images/resource/speaker-2.jpg" alt="">
                             </div>
                         </div><!-- col end-->
                         <div class="col-lg-6">
                             <div class="ts-speaker-popup-content">
                                 <h3 class="ts-title">Prof. Muhammad Khurram Khan</h3>
-                                <span class="speakder-designation">General Manager</span>
+                                <span class="speakder-designation">Biography</span>
                                 <p>
-                                    World is committed to making participation in the event a harass ment free experience
-                                    for everyone, regardless of level experience gender, gender identity and expression
-                                </p>
-                                <h4 class="session-name">
+              Prof. Muhammad Khurram Khan is currently working at the Center of Excellence in Information Assurance (CoEIA), King Saud University, Kingdom of Saudi Arabia. He is the founder and CEO of the ‘Global Foundation for Cyber Studies and Research’ (http://www.gfcyber.org), which is an independent, non-profit, and non-partisan cybersecurity think tank based in Washington D.C.
+He is the Editor-in-Chief of a well-reputed International journal ‘Telecommunication Systems’ published by Springer with its recent impact factor of 1.542 (JCR 2017). Furthermore, he is the editor of several international journals, including, IEEE Communications Surveys & Tutorials, IEEE Communications Magazine, IEEE Internet of Things Journal, IEEE Transactions on Consumer Electronics, IEEE Access, IEEE Consumer Electronics Magazine, Journal of Network & Computer Applications, PLOS ONE, Electronic Commerce Research, and IET Wireless Sensor Systems.
+Prof. Khurram is the recipient of King Saud University Award for Scientific Excellence (Research Productivity) in May 2015. He is also a recipient of King Saud University Award for Scientific Excellence (Inventions, Innovations, and Technology Licensing) in May 2016.
+He has published more than 350 papers in the journals and conferences of international repute. In addition, he is an inventor of 10 US/PCT patents. His research areas of interest are Cybersecurity, digital authentication, biometrics, IoT security, and technological innovation management.
+He is a fellow of the IET (UK), fellow of the BCS (UK), fellow of the FTRA (Korea), senior member of the IEEE (USA), member of the IEEE Consumer Electronics Society, member of the IEEE Communications Society, member of the IEEE Technical Committee on Security & Privacy, member of the IEEE IoT Community, and member of the IEEE Cybersecurity Community. He is also the Vice Chair of IEEE Communications Society Saudi Chapter. He is a distinguished Lecturer of the IEEE. His detailed profile can be visited at http://www.professorkhurram.com
+            </p>
+                                <!-- <h4 class="session-name">
                                     Sessions by David
                                 </h4>
                                 <div class="row">
@@ -238,7 +241,7 @@ She is active organizing a monthly workshop such as Matlab, Maple, Mathematica, 
                                             <p> Marketing Matters </p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="ts-speakers-social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>

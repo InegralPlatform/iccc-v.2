@@ -27,7 +27,7 @@
     <!--End Page Title-->
 
     <!-- Project Section -->
-    <?php include('parts/callForPapers/topicsSection.php');?>
+    <?php include('parts/topicsSection.php');?>
     <!--End Project Section -->
 
 

@@ -38,9 +38,9 @@
     <!-- Topics Section -->
     <?php include('parts/Home/Topics.php');?>
     <!--End Topics Section -->
-    
+
     <!-- Pricing Section -->
-<?php include('parts/Home/pricingPlane.php');?>
+<?php //include('parts/Home/pricingPlane.php');?>
     <!--End Pricing Section -->
 
 
@@ -50,7 +50,7 @@
     <!--End Sponsor Section -->
 
     <!-- News Section -->
-  <?php include('parts/Home/news.php');?>
+  <?php //include('parts/Home/news.php');?>
     <!-- News Section -->
 
     <!-- Main Footer -->

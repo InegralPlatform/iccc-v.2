@@ -24,8 +24,8 @@
                                     <div class="shedule-box">
                                         <h3 class="day">DAY 1</h3>
                                         <span class="date">22th January, Wednesday </span>
-                                        <div class="text">Ut quo decore libris erroribus, vel ne omnium invidunt, ut eos dicat aeque intellegat. Diam tota omnesque vim ad, sea et prim </div>
-                                        <div class="link-box"><a href="schedule.html"><span class="fa fa-angle-right"></span> More Details</a></div>
+                                        <div class="text"> </div>
+                                        <div class="link-box"><a href="schedule.php"><span class="fa fa-angle-right"></span> More Details</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -38,7 +38,7 @@
                                         <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                             <div class="inner-box">
                                                 <div class="thumb">
-                                                    <img src="images/resource/author-thumb-1.png" alt="">
+                                                    <!-- <img src="images/resource/author-thumb-1.png" alt=""> -->
                                                     <span class="name">Dr. Auhood Abdullah Alfaries</span>
                                                 </div>
                                                 <div class="info">
@@ -53,7 +53,7 @@
                                         <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                             <div class="inner-box">
                                                 <div class="thumb">
-                                                    <img src="images/resource/author-thumb-2.png" alt="">
+                                                    <!-- <img src="images/resource/author-thumb-2.png" alt=""> -->
                                                     <span class="name">Dr. Hind Khalifa</span>
                                                 </div>
                                                 <div class="info">
@@ -68,7 +68,7 @@
                                         <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                             <div class="inner-box">
                                                 <div class="thumb">
-                                                    <img src="images/resource/author-thumb-3.png" alt="">
+                                                    <!-- <img src="images/resource/author-thumb-3.png" alt=""> -->
                                                     <span class="name">Dr. Mouna Jamjoum</span>
                                                 </div>
                                                 <div class="info">
@@ -83,7 +83,7 @@
                                         <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                             <div class="inner-box">
                                                 <div class="thumb">
-                                                    <img src="images/resource/author-thumb-4.png" alt="">
+                                                    <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                     <span class="name">Dr. Norah Alghamdi</span>
                                                 </div>
                                                 <div class="info">
@@ -113,7 +113,7 @@
                                         <h3 class="day">DAY 2</h3>
                                         <span class="date">8th January, Wednesday </span>
                                         <div class="text">Ut quo decore libris erroribus, vel ne omnium invidunt, ut eos dicat aeque intellegat. Diam tota omnesque vim ad, sea et prim </div>
-                                        <div class="link-box"><a href="schedule.html"><span class="fa fa-angle-right"></span> More Details</a></div>
+                                        <div class="link-box"><a href="schedule.php"><span class="fa fa-angle-right"></span> More Details</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Dr. Etidal Abdelkarim</span>
                                               </div>
                                               <div class="info">
@@ -140,7 +140,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name"> Dr. Hanan Aljeed </span>
                                               </div>
                                               <div class="info">
@@ -154,7 +154,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Dr. Samia Chlouk</span>
                                               </div>
                                               <div class="info">
@@ -168,7 +168,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Dr. Rim Salah</span>
                                               </div>
                                               <div class="info">
@@ -196,8 +196,8 @@
                                     <div class="shedule-box">
                                         <h3 class="day">DAY 3</h3>
                                         <span class="date">9th January, Wednesday </span>
-                                        <div class="text">Ut quo decore libris erroribus, vel ne omnium invidunt, ut eos dicat aeque intellegat. Diam tota omnesque vim ad, sea et prim </div>
-                                        <div class="link-box"><a href="schedule.html"><span class="fa fa-angle-right"></span> More Details</a></div>
+                                        <div class="text"> </div>
+                                        <div class="link-box"><a href="schedule.php"><span class="fa fa-angle-right"></span> More Details</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Dr. Ahmed Ibrahim</span>
                                               </div>
                                               <div class="info">
@@ -224,7 +224,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Ms. Lama Alhousen</span>
                                               </div>
                                               <div class="info">
@@ -238,7 +238,7 @@
                                       <div class="author-block col-lg-6 col-md-6 col-sm-12">
                                           <div class="inner-box">
                                               <div class="thumb">
-                                                  <img src="images/resource/author-thumb-4.png" alt="">
+                                                  <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                                   <span class="name">Ms. Maram Alchablan</span>
                                               </div>
                                               <div class="info">

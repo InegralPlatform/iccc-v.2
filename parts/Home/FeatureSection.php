@@ -1,7 +1,7 @@
-<section class="feature-section-two">
+<!-- <section class="feature-section-two">
     <div class="auto-container">
         <div class="row">
-            <!-- Feature Block Two -->
+
             <div class="feature-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                 <div class="inner-box">
                     <div class="icon"><img src="images/resource/feature-1.png" alt=""></div>
@@ -11,7 +11,7 @@
                 </div>
             </div>
 
-            <!-- Feature Block Two -->
+
             <div class="feature-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                 <div class="inner-box">
                     <div class="icon"><img src="images/resource/feature-2.png" alt=""></div>
@@ -21,7 +21,7 @@
                 </div>
             </div>
 
-            <!-- Feature Block Two -->
+
             <div class="feature-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                 <div class="inner-box">
                     <div class="icon"><img src="images/resource/feature-3.png" alt=""></div>
@@ -31,7 +31,7 @@
                 </div>
             </div>
 
-            <!-- Feature Block Two -->
+
             <div class="feature-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
                 <div class="inner-box">
                     <div class="icon"><img src="images/resource/feature-4.png" alt=""></div>
@@ -42,4 +42,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->

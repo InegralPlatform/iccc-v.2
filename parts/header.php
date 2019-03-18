@@ -30,8 +30,8 @@
                                 </li>
                                 <li class="current dropdown"><a href="#">Call For Papers</a>
                                     <ul>
-                                        <li><a href="#Tracks">Tracks</a></li>
-                                        <li><a href="submission.php">Submission</a></li>
+                                        <li><a href="index.php#Tracks">Tracks</a></li>
+                                        <li><a href="submission.php#Submission">Submission</a></li>
                                         <li><a href="ImportantDates.php">Important Dates</a></li>
 
                                     </ul>

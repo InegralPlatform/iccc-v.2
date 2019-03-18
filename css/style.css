@@ -2601,7 +2601,7 @@ img{
 
 .events-carousel .content-column .inner-column{
 	position: relative;
-	padding-top: 115px;
+	/* padding-top: 115px; */
 	padding-left: 15px;
 }
 

@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="info-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="inner-column" style="background-image: url(images/resource/image-1.png);">
+                        <div class="inner-column" style="    background-color: #12114a;;">
                             <div class="inner">
                                 <div class="info-box location">
                                     <span class="icon flaticon-location-pin"></span>
@@ -77,7 +77,7 @@
                     </div>
 
                     <div class="info-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="inner-column" style="background-image: url(images/resource/image-1.png);">
+                        <div class="inner-column" style="    background-color: #12114a;">
                             <div class="inner">
                                 <div class="info-box location">
                                     <span class="icon flaticon-location-pin"></span>
@@ -123,7 +123,7 @@
                     </div>
 
                     <div class="info-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="inner-column" style="background-image: url(images/resource/image-1.png);">
+                        <div class="inner-column" style="    background-color: #12114a;">
                             <div class="inner">
                                 <div class="info-box location">
                                     <span class="icon flaticon-location-pin"></span>
@@ -169,7 +169,7 @@
                     </div>
 
                     <div class="info-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="inner-column" style="background-image: url(images/resource/image-1.png);">
+                        <div class="inner-column" style=" background-color: #12114a;">
                             <div class="inner">
                                 <div class="info-box location">
                                     <span class="icon flaticon-location-pin"></span>

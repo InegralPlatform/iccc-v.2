@@ -119,7 +119,7 @@
 
     <!-- Venue Gallery -->
     <section class="venue-gallery" id="venue-gallery">
-        <span class="float-text">Venue galle</span>
+        <span class="float-text">About Riyadh</span>
         <div class="anim-icons">
             <span class="icon icon-cross-1"></span>
             <span class="icon icon-circle-12"></span>
@@ -128,8 +128,8 @@
         </div>
         <div class="auto-container">
             <div class="sec-title">
-                <h2>Venue Gallery</h2>
-                <h3>About Riyadh</h3>
+                <h2>About Riyadh</h2>
+
             </div>
             <div class="row">
                 <!-- Gallery Block -->

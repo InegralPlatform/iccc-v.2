@@ -15,7 +15,7 @@
     <!--End Hidden Bar -->
 
     <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?>
+<?php //include('parts/Home/banner.php');?>
     <!-- End Bnner Section -->
         <?php include('parts/ImportantDatesSection.php');?>
 

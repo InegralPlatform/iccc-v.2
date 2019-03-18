@@ -39,83 +39,7 @@
     </section>
     <!--End Page Title-->
 
-    <!-- Event Venue Section -->
-    <section class="event-venue-section">
-        <div class="auto-container">
-            <div class="sec-title">
-                <h2>The Venue For Life’s Most <br>Important Events.</h2>
-            </div>
 
-            <div class="row">
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-star-4"></span>
-                            <h4><a href="#">Built With You in Mind</a></h4>
-                        </div>
-                        <div class="text">.</div>
-                    </div>
-                </div>
-
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-medal-5"></span>
-                            <h4><a href="#">Flawles & Memorable</a></h4>
-                        </div>
-                        <div class="text"></div>
-                    </div>
-                </div>
-
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-crown-1"></span>
-                            <h4><a href="#">Customer-Focused Approach</a></h4>
-                        </div>
-                        <div class="text"></div>
-                    </div>
-                </div>
-
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-peace"></span>
-                            <h4><a href="#">Weddings</a></h4>
-                        </div>
-                        <div class="text"></div>
-                    </div>
-                </div>
-
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-best"></span>
-                            <h4><a href="#">Corporate Event</a></h4>
-                        </div>
-                        <div class="text"></div>
-                    </div>
-                </div>
-
-                <!-- Venue Feature Block -->
-                <div class="venue-feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                    <div class="inner-box">
-                        <div class="title">
-                            <span class="icon flaticon-mug"></span>
-                            <h4><a href="#">Special Occasions</a></h4>
-                        </div>
-                        <div class="text"> .</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Event Venue Section -->
 
     <!-- Venue Gallery -->
     <section class="venue-gallery" id="venue-gallery">
@@ -136,7 +60,7 @@
                 <div class="gallery-block col-lg-4 col-md-6 col-sm-12 wow zoomIn">
                     <div class="image-box">
                         <figure class="image"><img src="images/gallery/1.png" alt="">
-
+                        
                         </figure>
                         <div class="overlay-box">
                             <a href="images/gallery/1.png" class="lightbox-image" data-fancybox="gallery">
@@ -146,6 +70,7 @@
                               </span>
                             </a>
                         </div>
+
                     </div>
                 </div>
 

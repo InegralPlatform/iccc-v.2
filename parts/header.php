@@ -4,7 +4,7 @@
         <div class="outer-container">
             <div class="clearfix">
                 <div class="pull-left logo-box">
-                    <div class="logo"><a href="index.html"><img src="images/logo-3.jpg" alt="" title="" width="48" hight="48" style="border-radius: 92px 94px 78px 1px;"></a></div>
+                    <div class="logo"><a href="index.php"><img src="images/logo-3.jpg" alt="" title="" width="48" hight="48" style="border-radius: 92px 94px 78px 1px;"></a></div>
                 </div>
 
                 <div class="nav-outer clearfix">
@@ -90,7 +90,7 @@
                                 </li>
                                 <!-- <li><a href="schedule.php">Schedule</a></li> -->
 
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact.php#contact">Contact</a></li>
                             </ul>
                         </div>
                     </nav>

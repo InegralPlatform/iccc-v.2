@@ -19,7 +19,7 @@
                         <li><a href="topics.php"> Data Science <span class="icon fa fa-chevron-right"></span></a></li>
                         <li><a href="topics.php">CyberSecurity <span class="icon fa fa-chevron-right"></span></a></li>
                         <li><a href="topics.php">Network and IoT <span class="icon fa fa-chevron-right"></span></a></li>
-                        <li><a href="topics.php">Information Technology  <span class="icon fa fa-chevron-right"></span></a></li>
+                        <li><a href="topics.php">Information Technology Applications  <span class="icon fa fa-chevron-right"></span></a></li>
                     </ul>
                 </div>
             </div>
@@ -27,7 +27,7 @@
             <div class="right-column col-lg-3 col-md-6 col-sm-12 order-3">
                 <div class="inner-column">
                     <ul class="topic-list">
-                        <li><a href="topics.php">Applications <span class="icon fa fa-chevron-right"></span></a></li>
+                        <li><a href="topics.php"> <span class="icon fa fa-chevron-right"></span></a></li>
 
                     </ul>
                 </div>

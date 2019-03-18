@@ -13,6 +13,9 @@
     <!-- Hidden Bar -->
   <?php include('parts/hiddenBar.php')?>
     <!--End Hidden Bar -->
+    <!-- Bnner Section -->
+<?php include('parts/Home/banner.php');?>
+    <!-- End Bnner Section -->
 
     <!-- Bnner Section -->
 <?php //include('parts/Home/banner.php');?>

@@ -18,7 +18,7 @@
     <!--End Location Section -->
 
     <!-- Contact Page Section -->
-    <section class="contact-page-section">
+    <section class="contact-page-section" id="contact">
         <div class="anim-icons">
             <span class="icon icon-cross-1"></span>
             <span class="icon icon-circle-12"></span>

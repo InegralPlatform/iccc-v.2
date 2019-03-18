@@ -36,55 +36,45 @@
 
                                     </ul>
                                 </li>
-                                <li class="dropdown has-mega-menu"><a href="#">Pages</a>
+                                <li class="dropdown has-mega-menu"><a href="#">WorkShops</a>
                                     <div class="mega-menu">
                                         <div class="mega-menu-bar row no-gutters">
-                                            <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <div class="column col-lg-6 col-md-6 col-sm-12">
                                                 <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="index.html">Home page 01</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="index-2.html">Home page 02</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="index-3.html">Home page 03</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="index-4.html">Home page 04</a></li>
+                                                    <li><i class="flaticon-avatar"></i><a href="workShopTopics.php">WorkShop Topics</a></li>
+
                                                 </ul>
                                             </div>
-                                            <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <div class="column col-lg-6 col-md-6 col-sm-12">
                                                 <ul>
-                                                    <li><i class="flaticon-avatar"></i><a href="about.html">About</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="pricing.html">Pricing</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="login.html">login</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="sign-up.html">Sign Up</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="coming-soon.html">Coming Soon</a></li>
+                                                    <li><i class="flaticon-avatar"></i><a href="WorkShopProposal.php">WorkShop Proposal</a></li>
+
                                                 </ul>
                                             </div>
-                                            <div class="column col-lg-3 col-md-3 col-sm-12">
+                                            <!-- <div class="column col-lg-3 col-md-3 col-sm-12">
                                                 <ul>
                                                     <li><i class="flaticon-avatar"></i><a href="blog.html">Blog</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="blog-single.html">Blog Single</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="speakers.html">Speakers</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="schedule.html">Schedule</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="error-page.html">404 Page</a></li>
+
                                                 </ul>
                                             </div>
                                             <div class="column col-lg-3 col-md-3 col-sm-12">
                                                 <ul>
                                                     <li><i class="flaticon-avatar"></i><a href="event-venue.html">Event Venue</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="project.html">Project</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="shop.html">Shop</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="shop-single.html">Shop Single</a></li>
-                                                    <li><i class="flaticon-avatar"></i><a href="contact.php">Contact</a></li>
+
                                                 </ul>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </li>
-                                <li><a href="speakers.php">Speakers</a></li>
-                                <li><a href="schedule.php">Schedule</a></li>
-                                <li class="dropdown"><a href="#">Blog</a>
+                                <li class="dropdown"><a href="#">Attending</a>
                                     <ul>
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                        <li><a href="event-venue.php">Venue</a></li>
+                                        <li><a href="event-venue.php#venue-gallery">About Riyadh</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="speakers.php">Speakers</a></li>
+                                <li><a href="schedule.php">Schedule</a></li>
+
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </div>

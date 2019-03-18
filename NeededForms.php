@@ -7,7 +7,7 @@
     <!-- Main Header-->
 <?php include('parts/header.php');?>
     <!--End Main Header -->
-    <!--End Main Header -->
+
     <!--Form Back Drop-->
     <div class="form-back-drop"></div>
 
@@ -16,8 +16,23 @@
     <!--End Hidden Bar -->
 
     <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?>
-    <!-- End Bnner Section -->
+
+
+    <section class="banner-section-two" style="background-image:url(images/background/1.jpg)" id="NeededForms">
+        <div class="auto-container">
+            <div class="content-box">
+                <div class="title-box">
+                  <h4>Needed Forms</h4>
+                    <h4>
+Information about the conference needed forms will be added soon​</h4>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
 
     <!-- Main Footer -->
   <?php include('parts/footer.php');?>

@@ -68,6 +68,8 @@
                                 </li>
                                 <li class="dropdown"><a href="#">Attending</a>
                                     <ul>
+                                      <li><a href="Registration.php#Registration">Registration</a></li>
+                                      <li><a href="NeededForms.php#NeededForms">Needed Forms</a></li>
                                         <li><a href="event-venue.php">Venue</a></li>
                                         <li><a href="event-venue.php#venue-gallery">About Riyadh</a></li>
                                     </ul>
@@ -88,15 +90,15 @@
                                 </li>
                                 <!-- <li><a href="schedule.php">Schedule</a></li> -->
 
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </nav>
 
                     <!-- btn box -->
-                    <div class="btn-box">
+                    <!-- <div class="btn-box">
                         <a href="contact.html" class="theme-btn btn-style-one">Buy Tickets</a>
-                    </div>
+                    </div> -->
 
                 </div>
                 <!--Outer Box-->

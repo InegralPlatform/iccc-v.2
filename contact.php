@@ -1,87 +1,20 @@
 <?php include('parts/head.php'); ?>
 <?php include('parts/header.php');?>
+<!--Form Back Drop-->
+<div class="form-back-drop"></div>
 
-    <!--End Main Header -->
+<!-- Hidden Bar -->
+<?php include('parts/hiddenBar.php')?>
+<!--End Hidden Bar -->
 
-    <!--Form Back Drop-->
-    <div class="form-back-drop"></div>
+<!-- Bnner Section -->
+<?php include('parts/Home/banner.php');?>
+<!-- End Bnner Section -->
 
-
-    <!--End Hidden Bar -->
-
-    <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/1.jpg);">
-        <div class="auto-container">
-            <span class="float-text">Contact</span>
-            <h1>Contact Us</h1>
-            <ul class="bread-crumb clearfix">
-                <li><a href="index.html">Home </a></li>
-                <li>Contact Us</li>
-            </ul>
-        </div>
-    </section>
     <!--End Page Title-->
 
     <!-- Location Section Two -->
-    <section class="location-section-two style-three">
-        <div class="auto-container">
-            <div class="row">
-                <!-- Info Block -->
-                <div class="info-block col-lg-4 col-md-6 col-sm-12 wow slideInLeft">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/resource/vactor-1.png" alt=""></figure>
-                        </div>
-                        <div class="info-box">
-                            <h5>Conference Location</h5>
-                            <div class="text">Washington State Convention Center 705 Pike Street ,Seattle, WA 98101 Phone: 206-694-5000</div>
-                        </div>
-                    </div>
-                </div>
 
-                <!-- Info Block -->
-                <div class="info-block col-lg-4 col-md-6 col-sm-12 wow slideInDown">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/resource/vactor-2.png" alt=""></figure>
-                        </div>
-                        <div class="info-box">
-                            <h5>Hotel Information</h5>
-                            <div class="text">Washington State Convention Center 705 Pike Street ,Seattle, WA 98101 Phone: 206-694-5000</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Info Block -->
-                <div class="info-block col-lg-4 col-md-6 col-sm-12 wow slideInRight">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/resource/vactor-3.png" alt=""></figure>
-                        </div>
-                        <div class="info-box">
-                            <h5>Airport Information</h5>
-                            <div class="text">Washington State Convention Center 705 Pike Street ,Seattle, WA 98101 Phone: 206-694-5000</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="map-box">
-            <!--Map Canvas-->
-            <div class="map-canvas"
-                data-zoom="12"
-                data-lat="-37.817085"
-                data-lng="144.955631"
-                data-type="roadmap"
-                data-hue="#ffc400"
-                data-title="Envato"
-                data-icon-path="images/icons/map-marker.png"
-                data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-            </div>
-        </div>
-
-    </section>
     <!--End Location Section -->
 
     <!-- Contact Page Section -->

@@ -1,11 +1,11 @@
-<section class="hidden-bar">
+<!-- <section class="hidden-bar">
     <div class="inner-box">
         <div class="cross-icon"><span class="fa fa-times"></span></div>
         <div class="title">
             <h2>Get Appointment</h2>
         </div>
 
-        <!--Appointment Form-->
+
         <div class="appointment-form">
             <form method="post" action="contact.html">
                 <div class="form-group">
@@ -26,7 +26,7 @@
             </form>
         </div>
 
-        <!--Contact Info Box-->
+
         <div class="contact-info-box">
             <ul class="info-list">
                 <li><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="32515d5c4653514672545b48515d5c1c515d5f">[email&#160;protected]</a></li>
@@ -41,4 +41,4 @@
             </ul>
         </div>
     </div>
-</section>
+</section> -->

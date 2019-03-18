@@ -1,143 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Fizcon -  HTML Template | Blog</title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<?php include('parts/head.php')?>
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body>
-
-<div class="page-wrapper">
 
     <!-- Preloader -->
-    <div class="preloader"></div>
+    <?php include('parts/loader.php');?>
 
     <!-- Main Header-->
-    <header class="main-header">
-        <!--Header-Upper-->
-        <div class="header-upper">
-            <div class="outer-container">
-                <div class="clearfix">
-                    <div class="pull-left logo-box">
-                        <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
-                    </div>
-
-                    <div class="nav-outer clearfix">
-
-                        <!-- Main Menu -->
-                        <nav class="main-menu navbar-expand-md">
-                            <div class="navbar-header">
-                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                            </div>
-                            <div class="navbar-collapse collapse scroll-nav clearfix" id="navbarSupportedContent">
-                                <ul class="navigation clearfix">
-                                    <li class="dropdown"><a href="#">Home</a>
-                                        <ul>
-                                            <li><a href="index.html">Home page 01</a></li>
-                                            <li><a href="index-2.html">Home page 02</a></li>
-                                            <li><a href="index-3.html">Home page 03</a></li>
-                                            <li><a href="index-4.html">Home page 04</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="#">About</a>
-                                        <ul>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="pricing.html">Pricing</a></li>
-                                            <li><a href="login.html">login</a></li>
-                                            <li><a href="sign-up.html">Sign Up</a></li>
-                                            <li><a href="coming-soon.html">Coming Soon</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown has-mega-menu"><a href="#">Pages</a>
-                                        <div class="mega-menu">
-                                            <div class="mega-menu-bar row no-gutters">
-                                                <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                    <ul>
-                                                        <li><i class="flaticon-avatar"></i><a href="index.html">Home page 01</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="index-2.html">Home page 02</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="index-3.html">Home page 03</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="index-4.html">Home page 04</a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                    <ul>
-                                                        <li><i class="flaticon-avatar"></i><a href="about.html">About</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="pricing.html">Pricing</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="login.html">login</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="sign-up.html">Sign Up</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="coming-soon.html">Coming Soon</a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                    <ul>
-                                                        <li><i class="flaticon-avatar"></i><a href="blog.html">Blog</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="blog-single.html">Blog Single</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="speakers.html">Speakers</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="schedule.html">Schedule</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="error-page.html">404 Page</a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="column col-lg-3 col-md-3 col-sm-12">
-                                                    <ul>
-                                                        <li><i class="flaticon-avatar"></i><a href="event-venue.html">Event Venue</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="project.html">Project</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="shop.html">Shop</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="shop-single.html">Shop Single</a></li>
-                                                        <li><i class="flaticon-avatar"></i><a href="contact.html">Contact</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li><a href="speakers.html">Speakers</a></li>
-                                    <li><a href="schedule.html">Schedule</a></li>
-                                    <li class="current dropdown"><a href="#">Blog</a>
-                                        <ul>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-single.html">Blog Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
-                        </nav>
-
-                        <!-- btn box -->
-                        <div class="btn-box">
-                            <a href="contact.html" class="theme-btn btn-style-one">Buy Tickets</a>
-                        </div>
-
-                    </div>
-                    <!--Outer Box-->
-                    <div class="outer-box">
-                        <!-- Nav Toggler -->
-                        <div class="nav-toggler">
-                            <button class="nav-btn"><span class="icon flaticon-arrows"></span></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--End Header Upper-->
-    </header>
+<?php include('parts/header.php');?>
+    <!--End Main Header -->
     <!--End Main Header -->
 
     <!--Form Back Drop-->
@@ -191,7 +60,7 @@
     <!--End Hidden Bar -->
 
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/5.jpg);">
+    <section class="page-title" style="background-image:url(images/background/1.jpg);">
         <div class="auto-container">
             <span class="float-text">Blog</span>
             <h1>Blog</h1>
@@ -407,71 +276,6 @@
     <!-- End Sidebar Container -->
 
     <!-- Main Footer -->
-    <div class="main-footer style-two">
-        <div class="anim-icons">
-            <span class="icon icon-twist-line-1 wow zoomIn"></span>
-            <span class="icon icon-circle-6 wow zoomIn" data-wow-delay="400ms"></span>
-            <span class="icon icon-twist-line-2 wow zoomIn" data-wow-delay="800ms"></span>
-            <span class="icon icon-circle-8 wow zoomIn" data-wow-delay="1200ms"></span>
-        </div>
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="title">Get The Latest Offers</span>
-                <h2>Subscribe To Newsletter</h2>
-            </div>
-
-            <!--Newsletter Form-->
-            <div class="newsletter-form">
-                <form method="post" action="blog.html">
-                    <div class="form-group">
-                        <input type="email" name="field-name" value="" placeholder="email@gmail.com" required>
-                        <button type="submit" class="theme-btn btn-style-three">Send</button>
-                    </div>
-                </form>
-            </div>
-
-            <!-- Social Links -->
-            <div class="social-links">
-                <ul>
-                    <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                    <li><a href="#"><span class="fab fa-dribbble"></span></a></li>
-                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                    <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
-                </ul>
-            </div>
-
-            <!-- Footer Bottom -->
-            <div class="footer-bottom clearfix">
-                <div class="copyright">Copyright &copy; 2019. All Rights Reserved.</div>
-                <ul>
-                    <li>We Accept </li>
-                    <li><a href="#"><img src="images/icons/cart-1.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="images/icons/cart-2.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="images/icons/cart-3.jpg" alt=""></a></li>
-                    <li><a href="#"><img src="images/icons/cart-4.jpg" alt=""></a></li>
-                </ul>
-            </div>
-            <!-- Copyright -->
-        </div>
-    </div>
+  <?php include('parts/footer.php');?>
     <!-- End Footer -->
-
-</div>
-<!--End pagewrapper-->
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/countdown.js"></script>
-<script src="js/script.js"></script>
-</body>
-</html>
+<?php include('parts/foot.php');?>

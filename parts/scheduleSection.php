@@ -18,7 +18,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-6.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-6.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -46,7 +46,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-8.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-8.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -61,7 +61,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-9.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-9.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -85,7 +85,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-1.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-1.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -100,7 +100,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-3.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-3.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -115,7 +115,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-5.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-5.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -152,7 +152,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-2.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-2.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -167,7 +167,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-4.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-4.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">
@@ -195,7 +195,7 @@
                     <div class="author-block wow fadeInUp">
                         <div class="inner-box">
                             <div class="thumb">
-                                <img src="images/resource/author-thumb-7.png" alt="">
+                                <!-- <img src="images/resource/author-thumb-7.png" alt=""> -->
                                 <span class="name">Dominika</span>
                             </div>
                             <div class="info">

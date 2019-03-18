@@ -4,7 +4,7 @@
         <div class="outer-container">
             <div class="clearfix">
                 <div class="pull-left logo-box">
-                    <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                    <div class="logo"><a href="index.html"><img src="images/logo-2.png" alt="" title="" width="100" hight="100"></a></div>
                 </div>
 
                 <div class="nav-outer clearfix">
@@ -72,8 +72,21 @@
                                         <li><a href="event-venue.php#venue-gallery">About Riyadh</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="speakers.php">Speakers</a></li>
-                                <li><a href="schedule.php">Schedule</a></li>
+                                <li class="dropdown">
+                                  <a href="#">Program</a>
+                                  <ul>
+                                    <li><a href="speakers.php">speakers</a></li>
+                                      <li><a href="schedule.php">program</a></li>
+                                  </ul>
+                                </li>
+                                <li class="dropdown">
+                                  <a href="#">Media Center</a>
+                                  <ul>
+                                    <li><a href="blog.php">News</a></li>
+                                      <li><a href="Announcements.php">Announcements</a></li>
+                                  </ul>
+                                </li>
+                                <!-- <li><a href="schedule.php">Schedule</a></li> -->
 
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>

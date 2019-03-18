@@ -15,11 +15,11 @@
     <!--End Hidden Bar -->
 
     <!--Page Title-->
-  <?php include('parts/schedule/pageTitle.php');?>
+  <?php include('parts/ScheduleBageTitle.php');?>
     <!--End Page Title-->
 
     <!-- Schedule Section -->
-  <?php include('parts/schedule/schedule.php');?>
+  <?php //include('parts/scheduleSection.php');?>
     <!--End Schedule Section -->
 
     <!-- Main Footer -->

@@ -35,7 +35,9 @@
 
             <div class="center-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
-                    <figure class="image wow zoomInDown"><img src="images/resource/topic-girl.png" alt=""></figure>
+                    <figure class="image wow zoomInDown">
+                      <!-- <img src="images/resource/topic-girl.png" alt=""> -->
+                    </figure>
                 </div>
             </div>
         </div>

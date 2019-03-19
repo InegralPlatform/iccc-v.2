@@ -22,6 +22,7 @@
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="index.php">Home</a>
                                     <ul>
+                                      <li><a href="about.php"> ِAbout ICC</a></li>
                                         <li><a href="index.php#generalChairs"> General Chairs</a></li>
                                         <li><a href="index.php#OrganizerCommittee"> Organizer Committee</a></li>
                                          <li><a href="index.php#speakers">Speackers</a></li>

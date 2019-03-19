@@ -1,4 +1,4 @@
-<section class="location-section-two style-two">
+<!-- <section class="location-section-two style-two">
     <div class="anim-icons">
         <span class="icon icon-cross-1"></span>
         <span class="icon icon-circle-12"></span>
@@ -11,7 +11,7 @@
             <h2>Locations</h2>
         </div>
         <div class="row">
-            <!-- Info Block -->
+
             <div class="info-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                 <div class="inner-box">
                     <div class="image-box">
@@ -24,7 +24,7 @@
                 </div>
             </div>
 
-            <!-- Info Block -->
+
             <div class="info-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                 <div class="inner-box">
                     <div class="image-box">
@@ -37,7 +37,7 @@
                 </div>
             </div>
 
-            <!-- Info Block -->
+
             <div class="info-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                 <div class="inner-box">
                     <div class="image-box">
@@ -51,4 +51,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->

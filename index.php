@@ -22,7 +22,7 @@
     <!-- Feature Section Two -->
     <?php include('parts/Home/FeatureSection.php');?>
     <!--End Feature Section Two -->
-
+<?php include('parts/Home/about.php');?>
     <!-- Events Section -->
     <?php include('parts/Home/EventSection.php');?>
     <!--End Events Section -->

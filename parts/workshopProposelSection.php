@@ -1,4 +1,4 @@
-<section class="project-section">
+<section class="project-section" id="WorkShopProposal">
     <div class="auto-container">
         <div class="project-tabs tabs-box">
             <div class="row">

@@ -8,7 +8,18 @@
 <!--End Hidden Bar -->
 
 <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?>
+<!--Page Title-->
+<section class="page-title" style="background-image:url(images/background/1.jpg);">
+    <div class="auto-container">
+        <span class="float-text">contact</span>
+        <h1>contact</h1>
+        <!-- <ul class="bread-crumb clearfix">
+            <li><a href="index.php">Home </a></li>
+            <li></li>
+        </ul> -->
+    </div>
+</section>
+<!--End Page Title-->
 <!-- End Bnner Section -->
 
     <!--End Page Title-->

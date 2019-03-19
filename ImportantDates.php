@@ -14,12 +14,21 @@
   <?php include('parts/hiddenBar.php')?>
     <!--End Hidden Bar -->
     <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?>
+    <section class="page-title" style="background-image:url(images/background/1.jpg);">
+        <div class="auto-container">
+            <span class="float-text">ImportantDates</span>
+            <h1>ImportantDates</h1>
+            <ul class="bread-crumb clearfix">
+                <li><a href="index.php">Home </a></li>
+                <li>ImportantDates</li>
+            </ul>
+
+        </div>
+    </section>
+
     <!-- End Bnner Section -->
 
-    <!-- Bnner Section -->
-<?php //include('parts/Home/banner.php');?>
-    <!-- End Bnner Section -->
+
         <?php include('parts/ImportantDatesSection.php');?>
 
     <!--Form Back Drop-->

@@ -33,14 +33,14 @@
                                     <ul>
                                         <li><a href="index.php#Tracks">Tracks</a></li>
                                         <li><a href="submission.php#Submission">Submission</a></li>
-                                        <li><a href="ImportantDates.php">Important Dates</a></li>
+                                        <li><a href="ImportantDates.php#ImportantDates">Important Dates</a></li>
 
                                     </ul>
                                 </li>
                                 <li class="dropdown "><a href="#">WorkShops</a>
                                     <ul>
-                                        <li><a href="workShopTopics.php">WorkShop Topics</a></li>
-                                        <li><a href="WorkShopProposal.php">WorkShop Proposal</a></li>
+                                        <li><a href="workShopTopics.php#WorkShopTopics">WorkShop Topics</a></li>
+                                        <li><a href="WorkShopProposal.php#WorkShopProposal">WorkShop Proposal</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Attending</a>

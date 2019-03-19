@@ -15,21 +15,21 @@
   <?php include('parts/hiddenBar.php')?>
     <!--End Hidden Bar -->
 
-    <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?>
-    <!-- End Bnner Section -->
+  
 
     <!-- Feature Section Two -->
     <?php include('parts/Home/FeatureSection.php');?>
     <!--End Feature Section Two -->
-<?php include('parts/About/aboutConferance.php');?><br /><br /><br />
 
 
 
 
 
 
-  
+
+    <!-- Topics Section -->
+    <?php include('parts/topicsSection.php');?>
+    <!--End Topics Section -->
 
     <!-- Pricing Section -->
 <?php //include('parts/Home/pricingPlane.php');?>

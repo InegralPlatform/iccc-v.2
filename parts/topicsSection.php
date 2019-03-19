@@ -1,4 +1,4 @@
-<section class="project-section">
+<section class="project-section" id="Tracks">
     <div class="auto-container">
         <div class="project-tabs tabs-box">
             <div class="row">
@@ -131,7 +131,7 @@
                                     <figure class="image"><img src="images/resource/project.jpg" alt=""></figure>
                                 </div>
                                 <div class="content-box">
-                                    <p>At sumo impedit tincidunt mea, velit admodum constituto eos ad, mel labore nusquam cu. Et usu brute everti assentior, alii graeci eam ne, noluisse atomorum sit id. Ut quo mollis alienum, in mel tantas euismod. Sed debitis adolescens te, cu nam nisl duis nulla. Ut falli tation quaerendum per, clita iudico graece an nam, te ubique definitiones ius. Vix id tibique rationibus.</p>
+
                                     <ul class="list-style-four">
                                       <li>
                                       Virtual Reality/Augmented Reality</li>

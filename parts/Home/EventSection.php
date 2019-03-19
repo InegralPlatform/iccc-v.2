@@ -43,7 +43,7 @@
 
                                 <div class="info-box date">
                                     <span class="icon flaticon-small-calendar"></span>
-                                    <div class="text">22/1/2019</div>
+                                    <div class="text">22,24/10/2019</div>
                                 </div>
 
                                 <div class="info-box time">

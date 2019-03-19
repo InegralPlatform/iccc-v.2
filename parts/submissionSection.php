@@ -123,10 +123,12 @@
                                       Journal of Universal Computer Science (Pending Approval) - ISI Indexed - ISSN 0948-695x.
                                       </li>
                                     </ul>
-
+                                    <p>
+                                      Please  to start your submission ​process
+                                    </p>
 
                                 </div>
-                                  <div class="btn-box"><a href="contact.php" class="theme-btn btn-style-three">Register Now</a></div>
+                                  <div class="btn-box"><a href="https://easychair.org/account/signin.cgi?key=86248559.xtjGbosSJFycJUvM" class="theme-btn btn-style-three">Submit Now </a></div>
                             </div>
 
 

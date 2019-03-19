@@ -1,4 +1,4 @@
-<header class="main-header">
+<header class="main-header" style="background:#12114a">
     <!--Header-Upper-->
     <div class="header-upper">
         <div class="outer-container">
@@ -25,13 +25,13 @@
                                       <li><a href="about.php#about"> ِAbout ICC</a></li>
                                         <li><a href="generalChairs.php#generalChairs"> General Chairs</a></li>
                                         <li><a href="organizerCommittee.php#OrganizerCommittee"> Organizer Committee</a></li>
-                                         <li><a href="speakers.php#speakers">Speackers</a></li>
+
                                         <li><a href="sponsers.php#sponsers">Sponsers and Partners</a></li>
                                     </ul>
                                 </li>
-                                <li class="current dropdown"><a href="#">Call For Papers</a>
+                                <li class=" dropdown"><a href="#">Call For Papers</a>
                                     <ul>
-                                        <li><a href="index.php#Tracks">Tracks</a></li>
+                                        <li><a href="tracks.php#Tracks">Tracks</a></li>
                                         <li><a href="submission.php#Submission">Submission</a></li>
                                         <li><a href="ImportantDates.php#ImportantDates">Important Dates</a></li>
 
@@ -58,13 +58,13 @@
                                       <li><a href="schedule.php">program</a></li>
                                   </ul>
                                 </li>
-                                <li class="dropdown">
+                                <!-- <li class="dropdown">
                                   <a href="#">Media Center</a>
                                   <ul>
                                     <li><a href="blog.php">News</a></li>
                                       <li><a href="Announcements.php">Announcements</a></li>
                                   </ul>
-                                </li>
+                                </li> -->
                                 <!-- <li><a href="schedule.php">Schedule</a></li> -->
 
                                 <li><a href="contact.php#contact">Contact</a></li>

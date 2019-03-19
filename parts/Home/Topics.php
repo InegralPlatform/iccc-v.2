@@ -1,4 +1,4 @@
-<section id="Tracks" class="topics-section">
+<section  class="topics-section">
     <span class="float-text">Event Tracks</span>
     <div class="anim-icons">
         <span class="icon icon-circle-5 wow zoomIn"></span>
@@ -24,14 +24,14 @@
                 </div>
             </div>
 
-            <div class="right-column col-lg-3 col-md-6 col-sm-12 order-3">
+            <!-- <div class="right-column col-lg-3 col-md-6 col-sm-12 order-3">
                 <div class="inner-column">
                     <ul class="topic-list">
                         <li><a href="topics.php"> <span class="icon fa fa-chevron-right"></span></a></li>
 
                     </ul>
                 </div>
-            </div>
+            </div> -->
 
             <div class="center-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">

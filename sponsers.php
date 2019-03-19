@@ -16,8 +16,16 @@
     <!--End Hidden Bar -->
 
     <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?><br />
-<br /><br /><br /><br /><br />
+    <section class="page-title" style="background-image:url(images/background/1.jpg);">
+        <div class="auto-container">
+            <span class="float-text">Sponsor</span>
+            <h1>Sponsor</h1>
+            <!-- <ul class="bread-crumb clearfix">
+                <li><a href="index.php">Home </a></li>
+                <li></li>
+            </ul> -->
+        </div>
+    </section>
 
 <!-- Sponsor -->
 <!-- Sponsor Section -->

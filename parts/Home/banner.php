@@ -1,4 +1,4 @@
-<section class="banner-section-two" style="background-image:url(images/background/1.jpg)">
+<section class="banner-section-two" style="background-image:url(images/background/1.jpg);">
     <div class="auto-container">
         <div class="content-box">
             <div class="title-box">

@@ -13,7 +13,7 @@
             <!-- Slide Item -->
             <div class="slide-item clearfix">
                 <div class="image-box">
-                    <figure class="image"><img src="images/resource/01.png" alt=""></figure>
+                    <figure class="image"><img src="images/resource/0.jpg" alt=""></figure>
                 </div>
                 <div class="content-box">
                     <div class="inner-box">

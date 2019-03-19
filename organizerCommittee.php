@@ -16,7 +16,16 @@
     <!--End Hidden Bar -->
 
     <!-- Bnner Section -->
-<?php include('parts/Home/banner.php');?><br />
+    <section class="page-title" style="background-image:url(images/background/1.jpg);">
+        <div class="auto-container">
+            <span class="float-text">OrganizerCommittee</span>
+            <h1>Organizer Committee</h1>
+            <!-- <ul class="bread-crumb clearfix">
+                <li><a href="index.php">Home </a></li>
+                <li></li>
+            </ul> -->
+        </div>
+    </section>
 <br /><br /><br /><br /><br />
 
 <!-- organizerCommittee -->

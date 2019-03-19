@@ -30,13 +30,9 @@
    <?php include('parts/About/AboutEvent.php');?>
     <!--End About Event -->
 
-    <!-- Speakers Section Two -->
-  <?php include('parts/About/EventSpeacker.php');?>
-    <!--End Speakers Section -->
+  
 
-    <!-- Sponsor Section -->
-  <?php include('parts/Sponsers.php');?>
-    <!--End Sponsor Section -->
+
 
     <!-- Location Section Two -->
     <?php include('parts/About/location.php');?>

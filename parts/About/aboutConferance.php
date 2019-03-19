@@ -1,4 +1,4 @@
-<section class="about-section">
+<section class="about-section" id="about">
     <div class="anim-icons">
         <span class="icon icon-cross-1"></span>
         <span class="icon icon-circle-9"></span>

@@ -22,18 +22,12 @@
     <!-- Feature Section Two -->
     <?php include('parts/Home/FeatureSection.php');?>
     <!--End Feature Section Two -->
-<?php include('parts/Home/about.php');?>
-    <!-- Events Section -->
-    <?php include('parts/Home/EventSection.php');?>
-    <!--End Events Section -->
+<?php include('parts/About/aboutConferance.php');?><br /><br /><br />
 
-    <!-- Event Highlight -->
-  <?php include('parts/Home/EventSchedules.php');?>
-    <!--End Event Highlight -->
 
-    <!-- Speakers Section Two -->
-<?php include('parts/Home/EventSpeackers.php');?>
-    <!--End Speakers Section -->
+
+
+
 
     <!-- Topics Section -->
     <?php include('parts/Home/Topics.php');?>
@@ -45,9 +39,7 @@
 
 
 
-    <!-- Sponsor Section -->
-  <?php include('parts/Sponsers.php');?>
-    <!--End Sponsor Section -->
+
 
     <!-- News Section -->
   <?php //include('parts/Home/news.php');?>

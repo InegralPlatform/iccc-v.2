@@ -22,11 +22,11 @@
                             <ul class="navigation clearfix">
                                 <li class="dropdown"><a href="index.php">Home</a>
                                     <ul>
-                                      <li><a href="about.php"> ِAbout ICC</a></li>
-                                        <li><a href="index.php#generalChairs"> General Chairs</a></li>
-                                        <li><a href="index.php#OrganizerCommittee"> Organizer Committee</a></li>
-                                         <li><a href="index.php#speakers">Speackers</a></li>
-                                        <li><a href="index.php#sponsers">Sponsers and Partners</a></li>
+                                      <li><a href="about.php#about"> ِAbout ICC</a></li>
+                                        <li><a href="generalChairs.php#generalChairs"> General Chairs</a></li>
+                                        <li><a href="organizerCommittee.php#OrganizerCommittee"> Organizer Committee</a></li>
+                                         <li><a href="speakers.php#speakers">Speackers</a></li>
+                                        <li><a href="sponsers.php#sponsers">Sponsers and Partners</a></li>
                                     </ul>
                                 </li>
                                 <li class="current dropdown"><a href="#">Call For Papers</a>
